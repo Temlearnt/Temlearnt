@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    <strong>Senior Full-Stack & Solutions Engineer</strong> • Software Craftsman & Solutions Architect
+    Junior Backend
   </p>
 
   <p align="center">
