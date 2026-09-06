@@ -43,7 +43,7 @@ focus: RESTful APIs, Database Architecture, Server-Side Systems & Cloud Services
 
 #### Core Technologies & Ecosystem
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,go,py,php,fastapi,postgres,mongodb,redis,mysql,docker,linux,git,postman&perline=8&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,go,py,php,fastapi,postgres,mongodb,redis,mysql,docker,git,postman&perline=8&theme=dark" alt="Tech Stack" />
 </a>
 
 </div>
