@@ -2,11 +2,11 @@
 
   <!-- Animated Typing SVG Header -->
   <a href="https://github.com/temlearnt">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=580&lines=Hi%20there%2C%20I'm%20Putu%20Sutha%20%F0%9F%91%8B;Junior%20Backend%20Developer;Passionate%20about%20APIs%2C%20Databases%20%26%20Server%20Architecture;Exploring%20Python%2C%20Go%20%26%20Node.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Hi%20there%2C%20I'm%20Putu%20Sutha%20%F0%9F%91%8B;Junior%20Backend%20Developer;Designing%20Clean%20REST%20APIs;Exploring%20Python%2C%20Go%20%26%20Node.js" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Junior Backend Developer</strong> • Junior Backend Developer • Building Robust APIs & Server Systems
+    <strong>Junior Backend Developer</strong> • Building Robust APIs & Server Systems
   </p>
 
   <p align="center">
@@ -23,7 +23,7 @@
 ### 👨‍💻 About Me
 
 ```yaml
-name: I Putu Sutha Satyawan
+name: Putu Sutha Satyawan
 github: temlearnt
 role: Junior Backend Developer
 location: Indonesia
@@ -65,7 +65,7 @@ focus: RESTful APIs, Database Architecture, Server-Side Systems & Cloud Services
 <div align="center">
 
   <a href="https://github.com/temlearnt">
-    <img height="185em" src="https://github-stats-extended.vercel.app/api?username=temlearnt&show_icons=true&commits_year=2026&custom_title=Temlearnt's%20GitHub%20Stats&title_color=58a6ff&text_color=e6edf3&icon_color=58a6ff&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
+    <img height="185em" src="https://github-stats-extended.vercel.app/api?username=temlearnt&show_icons=true&commits_year=2026&custom_title=Putu%20Sutha%20Satyawan's%20GitHub%20Stats&title_color=58a6ff&text_color=e6edf3&icon_color=58a6ff&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/temlearnt">
     <img height="185em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=temlearnt&layout=compact&title_color=58a6ff&text_color=e6edf3&bg_color=0d1117&hide_border=true" alt="Top Languages" />
