@@ -23,7 +23,7 @@
 ### 👨‍💻 About Me
 
 ```yaml
-name: Putu Sutha Satyawan
+name: I Putu Sutha Satyawan
 github: temlearnt
 role: Junior Backend Developer
 location: Indonesia
