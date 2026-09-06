@@ -65,7 +65,7 @@ focus: RESTful APIs, Database Architecture, Server-Side Systems & Cloud Services
 <div align="center">
 
   <a href="https://github.com/temlearnt">
-    <img height="185em" src="https://github-stats-extended.vercel.app/api?username=temlearnt&show_icons=true&commits_year=2026&custom_title=Putu%20Sutha%20Satyawan's%20GitHub%20Stats&title_color=58a6ff&text_color=e6edf3&icon_color=58a6ff&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
+    <img height="185em" src="https://github-stats-extended.vercel.app/api?username=temlearnt&show_icons=true&commits_year=2026&custom_title=Temlearnt's%20GitHub%20Stats&title_color=58a6ff&text_color=e6edf3&icon_color=58a6ff&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/temlearnt">
     <img height="185em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=temlearnt&layout=compact&title_color=58a6ff&text_color=e6edf3&bg_color=0d1117&hide_border=true" alt="Top Languages" />
