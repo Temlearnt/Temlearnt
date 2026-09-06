@@ -65,16 +65,16 @@ focus: RESTful APIs, Database Architecture, Server-Side Systems & Cloud Services
 <div align="center">
 
   <a href="https://github.com/temlearnt">
-    <img height="175em" src="https://github-stats-extended.vercel.app/api?username=temlearnt&show_icons=true&theme=tokyo-night&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=38bdf8" alt="GitHub Stats" />
+    <img height="185em" src="https://github-stats-extended.vercel.app/api?username=temlearnt&show_icons=true&commits_year=2026&custom_title=Putu%20Sutha%20Satyawan's%20GitHub%20Stats&title_color=58a6ff&text_color=e6edf3&icon_color=58a6ff&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/temlearnt">
-    <img height="175em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=temlearnt&layout=compact&theme=tokyo-night&hide_border=true&bg_color=0d1117&title_color=60a5fa" alt="Top Languages" />
+    <img height="185em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=temlearnt&layout=compact&title_color=58a6ff&text_color=e6edf3&bg_color=0d1117&hide_border=true" alt="Top Languages" />
   </a>
 
   <br /><br />
 
   <a href="https://github.com/temlearnt">
-    <img width="85%" src="https://streak-stats.demolab.com?user=temlearnt&theme=tokyo-night&hide_border=true&background=0d1117&ring=60a5fa&fire=38bdf8&currStreakLabel=60a5fa" alt="GitHub Streak" />
+    <img width="85%" src="https://streak-stats.demolab.com?user=temlearnt&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=e6edf3&dates=8b949e&hide_border=true" alt="GitHub Streak" />
   </a>
 
 </div>
