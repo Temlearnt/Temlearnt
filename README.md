@@ -23,7 +23,7 @@
 ### 👨‍💻 About Me
 
 ```yaml
-name: I Putu Sutha Satyawan
+name: Putu Sutha Satyawan
 github: temlearnt
 role: Junior Backend Developer
 location: Indonesia
@@ -81,16 +81,6 @@ focus: RESTful APIs, Database Architecture, Server-Side Systems & Cloud Services
 
 ---
 
-### 📈 Contribution Calendar
-
-<div align="center">
-  <a href="https://github.com/temlearnt">
-    <img width="95%" src="https://ghchart.rshah.org/409ba5/temlearnt" alt="GitHub Contribution Calendar" />
-  </a>
-</div>
-
----
-
 ### 🤝 Let's Connect & Collaborate
 
 <div align="center">
@@ -104,4 +94,3 @@ focus: RESTful APIs, Database Architecture, Server-Side Systems & Cloud Services
   <sub>Designed with minimal elegance • Powered by GitHub & Open Source</sub>
 
 </div>
-
